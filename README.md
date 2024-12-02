@@ -20,10 +20,17 @@ Atmospheric Pressure
 The target variable is RainTomorrow, which indicates whether it will rain the next day.
 
 Models Used:
+
 Naive Bayes
+
 KNeighborsClassifier
+
 Logistic Regression
+
 MLP
+
 Decision Trees
+
 Random Forest
+
 Support Vector Machines (SVM)
